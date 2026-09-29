@@ -1,0 +1,1 @@
+const firebaseConfig = { apiKey:"AIzaSyBRWneqrJvOZsekAqVd6Q__R8byzgL2BnA", authDomain:"skin-care-3e3e0.firebaseapp.com", projectId:"skin-care-3e3e0", storageBucket:"skin-care-3e3e0.firebasestorage.app", messagingSenderId:"93538056876", appId:"1:93538056876:web:7f0e59cc228f583fa57d09", measurementId:"G-RY14NLKEJ5" };
